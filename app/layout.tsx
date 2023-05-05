@@ -6,7 +6,6 @@ import ClientProvider from "@/components/ClientProvider";
 import '../styles/globals.css'
 
 
-
 export const metadata = {
   title: 'Galeria de imagens IA',
   description: 'Feito por Diego Gava',

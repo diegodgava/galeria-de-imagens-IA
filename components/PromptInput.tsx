@@ -85,7 +85,7 @@ const loading = isLoading || isValidating
       : suggestion || 'Insira uma frase'
   }
   className='flex-1 p-3 outline-none rounded-md resize-none'
-  style={{ maxHeight: '50px' }}
+  style={{ maxHeight: '100px' }}
 />
         
 
